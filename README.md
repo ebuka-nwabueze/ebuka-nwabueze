@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebuka-nwabueze, a project manager transitioning into the development space.
-- 👀 I’m interested in web development
+- 👀 I’m interested in specializing in Backend development but firstly looking learning full stack.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on exciting projects to continue to grow.
 - 📫 How to reach me Twitter @EbukaGN
