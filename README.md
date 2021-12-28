@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ebuka-nwabueze, a project manager moving into the development space.
+- 👋 Hi, I’m @ebuka-nwabueze, a project manager transitioning into the development space.
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on exciting projects to continue to grow.
